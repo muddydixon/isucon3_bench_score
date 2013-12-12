@@ -1,0 +1,19 @@
+{
+  "name": "isucon3_bench_score",
+  "version": "0.0.0",
+  "authors": [
+    "muddydixon <muddydixon@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.3.11",
+    "coffee-script": "~1.6.3"
+  }
+}
